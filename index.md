@@ -2,9 +2,9 @@
 layout: default
 ---
 
-![image](https://github.com/yurasong/whyrano.github.io/whyrano_pic.png)
+![image](https://github.com/yurasong/whyrano4.github.io/whyrano_pic.png) #Need to check whether the image is shown
 
-안녕하세요! 
+안녕하세요!
 
 [외이례의 브런치](https://brunch.co.kr/@whyrano)는 여기서 만나보실 수 있어요!
 
