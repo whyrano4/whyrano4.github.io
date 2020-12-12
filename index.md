@@ -34,9 +34,8 @@ layout: default
 
 # 작가와의 이야기가 필요하다면?
 
-```
-whyrano.kr@daum.net
-```
+- whyrano.kr@daum.net
+- [작가에게 제안하기](https://brunch.co.kr/@whyrano/propose)
 
 ### Definition lists can be used with HTML syntax.
 
