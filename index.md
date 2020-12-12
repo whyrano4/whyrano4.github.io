@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![image](https://github.com/whyrano4/whyrano4.github.io/blob/main/whyrano_pic.png) #Need to check whether the image is shown
+![image](whyrano_pic.png) #Need to check whether the image is shown
 
 안녕하세요! 브런치 작가 외이례의 웹페이지에 오신 것을 환영합니다 :-)
 [외이례의 브런치](https://brunch.co.kr/@whyrano)는 여기서 만나보실 수 있어요!
@@ -21,104 +21,22 @@ layout: default
 
 # 발행하는 글의 주제
 
-저희가 다루고자 하는 분야는 아래와 같이 총 네 가지입니다.
+저희가 다루고자 하는 분야는 아래와 같이 총 네 가지입니다. 각각의 글은 각 주제의 내용을 요약할 수 있는 말머리와 함께 발행됩니다.
 
-| 대주제        | 말머리          |
-|:-------------|:------------------|
-| 식소비문화 | 먹고사는게왜이래 |
-| 복약정보 | 내가먹는약왜이래 |
-| 소비문화 | 내돈쓰는데왜이래 |
-| 미디어의 영향 | 편해졌는데왜이래 |
+*   식소비문화 - 먹고사는게왜이래
+*   복약정보 - 내가먹는약왜이래
+*   소비문화 - 내돈쓰는데왜이래
+*   미디어의 영향 - 편해졌는데왜이래
 
+# 추가 페이지 정보 필요
 
 [추가 페이지](./another-page.html).
 
-There should be whitespace between paragraphs.
+# 작가와의 이야기가 필요하다면?
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
 ```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+whyrano.kr@daum.net
 ```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
 
 ### Definition lists can be used with HTML syntax.
 
@@ -132,11 +50,3 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
