@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![image](https://github.com/yurasong/whyrano4.github.io/whyrano_pic.png) #Need to check whether the image is shown
+![image](https://github.com/whyrano4/whyrano4.github.io/blob/main/whyrano_pic.png) #Need to check whether the image is shown
 
 안녕하세요!
 
@@ -13,7 +13,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[추가 페이지](./another-page.html).
 
 There should be whitespace between paragraphs.
 
