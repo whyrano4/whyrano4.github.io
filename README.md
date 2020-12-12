@@ -2,5 +2,5 @@
 
 # Description
 
-- A webpage for project whyrano, publication on brunch website.
+- 외이례의 공식 웹페이지입니다 :)
 - Webpage issue report : whyrano.kr@daum.net
