@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![image](https://github.com/yurasong/whyrano.github.io/blob/main/whyrano_pic.jpeg)
+![image](https://github.com/yurasong/whyrano.github.io/blob/main/whyrano_pic.png)
 
 [Our bookshelf](https://brunch.co.kr/@whyrano)
 
