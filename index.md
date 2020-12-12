@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![image](whyrano_pic.png) #Need to check whether the image is shown
+![image](whyrano_pic.png) 
 
 안녕하세요! 브런치 작가 외이례의 웹페이지에 오신 것을 환영합니다 :-)
 [외이례의 브런치](https://brunch.co.kr/@whyrano)는 여기서 만나보실 수 있어요!
