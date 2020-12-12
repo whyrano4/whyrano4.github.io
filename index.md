@@ -2,9 +2,11 @@
 layout: default
 ---
 
-![image](https://github.com/yurasong/whyrano.github.io/blob/main/whyrano_pic.png)
+![image](https://github.com/yurasong/whyrano.github.io/whyrano_pic.png)
 
-[Our bookshelf](https://brunch.co.kr/@whyrano)
+안녕하세요! 
+
+[외이례의 브런치](https://brunch.co.kr/@whyrano)는 여기서 만나보실 수 있어요!
 
 
 
